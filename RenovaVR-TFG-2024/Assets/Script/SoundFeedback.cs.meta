@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e032637dd4c188e4ca1fff36d8f5920d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clickSound: {fileID: 8300000, guid: 81124813ded3a8d46834a6154dc5ea7b, type: 3}
+  - placeSound: {fileID: 8300000, guid: 9987f456a6216b24b81c1efac5119f63, type: 3}
+  - removeSound: {fileID: 8300000, guid: 9adbc1ac0e6304741b853db74f87ba12, type: 3}
+  - wrongPlacementSound: {fileID: 8300000, guid: bf53fb3d374e3da409e376b09086c26a,
+      type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
